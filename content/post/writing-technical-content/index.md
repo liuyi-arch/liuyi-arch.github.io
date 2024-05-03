@@ -1,17 +1,17 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: title title title
+date: 2024-05-01
 math: true
 image:
   placement: 2
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+content content content content content...
 
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
+**content content content content content...**
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
+content content content content content...
 
 ## Examples
 

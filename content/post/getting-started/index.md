@@ -1,18 +1,18 @@
 ---
-title: Welcome to Hugo Blox Builder, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: title title title
+subtitle: subtitle subtitle subtitle
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: summary summary summary summary summary...
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2024-05-01T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2024-05-01T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,7 +30,7 @@ image:
 
 authors:
   - admin
-  - 吳恩達
+  - Yi Liu
 
 tags:
   - Academic
@@ -46,7 +46,7 @@ import libr
 print('hello')
 ```
 
-## Overview
+<!-- ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
@@ -105,6 +105,7 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
+Copyright 2024-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license. -->

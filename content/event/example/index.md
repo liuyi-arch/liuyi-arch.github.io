@@ -1,18 +1,17 @@
 ---
 title: Example Talk
 
-event: Hugo Blox Builder Conference
+event: xxx Conference
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: University of Electronic Science and Technology of China
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+  street: Xiyuan Avenue
+  city: Chengdu
+  region: Suchuan
+  postcode: '610054'
+  country: China
+summary: An example talk using...
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -22,7 +21,7 @@ date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-05-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -38,7 +37,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/liuyi020414
 url_code: ''
 url_pdf: ''
 url_slides: ''
