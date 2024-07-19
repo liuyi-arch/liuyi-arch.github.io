@@ -8,7 +8,7 @@ location: University of Electronic Science and Technology of China
 address:
   street: Xiyuan Avenue
   city: Chengdu
-  region: Suchuan
+  region: Sichuan
   postcode: '610054'
   country: China
 summary: An example talk using...
