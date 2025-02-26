@@ -268,7 +268,7 @@ sections:
       address:
         street: Xiyuan Avenue
         city: Chengdu
-        region: Suchuan
+        region: Sichuan
         postcode: '610054'
         country: China
         country_code: CN
